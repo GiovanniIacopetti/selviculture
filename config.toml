@@ -89,7 +89,7 @@ canonifyURLs = true
 [params.intro]
   header    = "selviculture"
 
-  paragraph = "<i class='fa fa-tree'></i> risorse culturali <i class='fa fa-tree'></i><br><i class='fa fa-tree'></i> per il settore forestale <i class='fa fa-tree'></i>"
+  paragraph = "<i class='fa fa-tree'></i> risorse culturali <br> per il settore forestale <i class='fa fa-tree'></i>"
 
   about     = "Questo sito è gestito da un gruppo indipendente di studenti e appassionati di scienze forestali. Il nostro unico scopo è quello di diffondere e far circolare la cultura forestale a tutti i livelli."
 
