@@ -129,19 +129,19 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
+  name = "arredi urbani"
+  url = "/arredi_urbani/"
   identifier = "fa fa-list"
   weight = 4
 
 [[menu.main]]
-  name = "Categories"
+  name = "categorie"
   url = "/categories/"
   identifier = "fa fa-sitemap"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "contatti"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
   weight = 6
