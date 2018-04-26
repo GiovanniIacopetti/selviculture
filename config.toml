@@ -117,7 +117,7 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "About"
+  name = "chi siamo"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
