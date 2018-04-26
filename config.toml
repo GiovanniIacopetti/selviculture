@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://objective-swirles-e69251.netlify.com/"
 languageCode = "en-us"
 title = "selviculture"
 theme = "hugo-future-imperfect"
