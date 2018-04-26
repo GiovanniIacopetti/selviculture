@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "<i class='fa fa-tree'></i> risorse culturali <i class='fa fa-tree'></i><br> per il settore forestale"
 
-  about     = "Questo sito è gestito da un gruppo indipendente di studenti e appassionati di scienze forestali. Il nostro unico scopo è quello di diffondere e far circolare la cultura forestale a tutti i livelli."
+  about     = "Questo sito è gestito da un gruppo indipendente di studenti e appassionati di scienze forestali. <br>Il nostro unico scopo è quello di diffondere e far circolare la cultura forestale a tutti i livelli."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
