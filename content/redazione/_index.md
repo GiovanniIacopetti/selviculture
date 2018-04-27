@@ -20,8 +20,8 @@ Se vuoi portare il tuo contributo alla discussione, ecco cosa puoi fare:
 * Puoi suggerirci argomenti da approfondire, nuovi punti di vista, o voci da intervistare.
 * Inviaci un articolo, un approfondimento o un'intervista scritti da te, su un tema che ti sta a cuore. In questo caso potrebbe essere una buona idea contattarci in anticipo per i dettagli tecnici.
 
-L'elenco sottostante è una lista approssimativa di chi si prende e si è preso cura di questo sito.
-Pronti ad aggiungere chiunque voglia contribuire:
+L'elenco sottostante è una lista approssimativa di chi si prende cura di questo sito e ne decide l'impostazione.  
+Ognuno si assume la responsabilità in prima persona di quello che scrive.
 
 ### Giovanni Iacopetti  
 ![Giovanni Iacopetti](../img/redazione/giovanniiacopetti.png)  
