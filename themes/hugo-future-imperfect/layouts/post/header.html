@@ -15,7 +15,7 @@
 
         <time class="published"
             datetime='{{ ($.Scratch.Get "dateType").Format "2006-01-02" }}'>
-            {{ ($.Scratch.Get "dateType").Format "2 Gennaio 2006" }}</time>
+            {{ ($.Scratch.Get "dateType").Format "02-01-2006" }}</time>
         <span class="author">{{ .Params.author }}</span>
         {{ if .Site.Params.includeReadingTime }}
             <p>{{ .ReadingTime }} minuti</p>
