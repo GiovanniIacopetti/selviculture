@@ -118,7 +118,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "chi siamo"
-  url = "/about/"
+  url = "/chi_siamo/"
   identifier = "fa fa-id-card-o"
   weight = 2
 
@@ -129,8 +129,8 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "arredi urbani"
-  url = "/arredi_urbani/"
+  name = "calendario forestale"
+  url = "/calendario forestale/"
   identifier = "fa fa-list"
   weight = 4
 
@@ -142,7 +142,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "contatti"
-  url = "/contact/"
+  url = "/contatti/"
   identifier = "fa fa-envelope-o"
   weight = 6
 
