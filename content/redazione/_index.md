@@ -1,7 +1,6 @@
 +++
 title = "chi c'è dietro questo sito"
 date = "2018-05-01"
-draft = true
 +++
 
 Questo sito è gestito da un gruppo di studenti e appassionati di scienze forestali.
