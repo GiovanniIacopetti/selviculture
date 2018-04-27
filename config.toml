@@ -118,7 +118,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "chi siamo"
-  url = "/chi_siamo/"
+  url = "/chi siamo/"
   identifier = "fa fa-id-card-o"
   weight = 2
 
