@@ -17,7 +17,7 @@ Chiunque, purché armato di buona fede, è caldamente invitato a contribuire, ne
 All'elenco sottostante aggiungeremo chiunque voglia contribuire:
 
 Giovanni Iacopetti  
-![Giovanni Iacopetti](./img/redazione/giovanniiacopetti.jpg)  
+![Giovanni Iacopetti](img/redazione/giovanniiacopetti.jpg)  
 Dottorando UniFi, Scuola di Agraria, DISPAA (Dipartimento di Scienze delle Scienze Agroalimentari e dell'Ambiente) sezione di Botanica Applicata e Ambientale  
 Tematiche: Biodiversità ed Ecologia Forestale
 
