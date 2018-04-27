@@ -12,8 +12,8 @@
     </div>
     <div class="meta">
 
-      <span class="author">{{ .Params.author }}</span>
-      <span class="author">{{ .Params.format }}</span>
+      <span class="author">{{ .Params.where }}</span>
+      <span class="author">{{ .Params.when }}</span>
       {{ if isset .Params "link" }}
         <a href="{{ .Params.link }}" target="_blank">{{ .Params.linktitle }}</a>
       {{ end }}
