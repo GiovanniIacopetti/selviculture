@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "selviculture"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 10
 disqusShortname = "selviculture"
 googleAnalytics = ""
 pluralizeListTitles = false
@@ -129,8 +129,8 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "calendario forestale"
-  url = "/calendario forestale/"
+  name = "rassegna stampa"
+  url = "/rassegna stampa/"
   identifier = "fa fa-list"
   weight = 4
 
