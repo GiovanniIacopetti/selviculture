@@ -24,7 +24,7 @@ L'elenco sottostante è una lista approssimativa di chi si prende e si è preso 
 Pronti ad aggiungere chiunque voglia contribuire:
 
 Giovanni Iacopetti  
-![Giovanni Iacopetti](img/redazione/giovanniiacopetti.png)  
+![Giovanni Iacopetti](../img/redazione/giovanniiacopetti.png)  
 Dottorando UniFi, Scuola di Agraria, DISPAA (Dipartimento di Scienze delle Scienze Agroalimentari e dell'Ambiente) sezione di Botanica Applicata e Ambientale  
 Tematiche: Biodiversità ed Ecologia Forestale
 
