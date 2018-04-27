@@ -18,7 +18,7 @@
             {{ ($.Scratch.Get "dateType").Format "02-01-2006" }}</time>
         <span class="author">{{ .Params.author }}</span>
         {{ if .Site.Params.includeReadingTime }}
-            <p>{{ .ReadingTime }} minuti</p>
+            <p>si legge in: {{ .ReadingTime }} minuti</p>
         {{ end }}
         <!--<a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>-->
     </div>
