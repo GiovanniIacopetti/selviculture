@@ -122,16 +122,22 @@ canonifyURLs = true
   identifier = "fa fa-id-card-o"
   weight = 2
 
+#[[menu.main]]
+#  name = "Blog"
+#  url = "/blog/"
+#  identifier = "fa fa-newspaper-o"
+#  weight = 3
+
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  identifier = "fa fa-newspaper-o"
+  name = "eventi"
+  url = "/eventi/"
+  identifier = "fa fa-list"
   weight = 3
 
 [[menu.main]]
   name = "rassegna stampa"
   url = "/rassegna stampa/"
-  identifier = "fa fa-list"
+  identifier = "fa fa-newspaper-o"
   weight = 4
 
 [[menu.main]]
