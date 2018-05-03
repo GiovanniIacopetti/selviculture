@@ -1,9 +1,9 @@
 +++
 type = "itemized"
-author = "Corriere Fiorentino"
-date = "2018-04-29"
+where = "Corriere Fiorentino"
+when = "2018-04-29"
 title = "Sullo stato di Vallombrosa"
-description = "Articolo del Corriere Fiorentino"
+description = "Un articolo sullo stato di abbandono della località"
 featured = ""
 featuredpath = ""
 featuredalt = ""
@@ -33,8 +33,8 @@ La Stazione Sperimentale di Selvicoltura, come il Paradisino, sono delle struttu
 
 <span style="background-color: #F8C448">Le questioni su cui vorremmo più informazioni</span>
 
-Sentieri inagibili per "caduta rami": come? perché? e soprattutto, ma _chi_?
-Chi ha messo questo cartello? C'è o non c'è un divieto?
+Sentieri inagibili per "caduta rami": come? perché? e soprattutto, ma _chi_?  
+Chi ha messo questo cartello? C'è o non c'è un divieto?  
 Siamo d'accordo che oramai bisogna avvisare le persone che in bosco possono cadere i rami, gli strobili (pigne ce ne sono poche a Vallombrosa) o si può inciampare in una radice.
 Se questo spaventa dei possibili visitatori, questo è un problema di cui discutere.
 
@@ -47,12 +47,11 @@ I problemi principali dell'articolo sono rappresentati come al solito da "il bos
 
 
 
-Prima lettura: **Giovanni Iacopetti**
+##### Prima lettura:
+Giovanni Iacopetti, 2018-05-03
 
-Articolo:
+##### Articolo:
 
 [Foresta in abbandono, locali chiusi. C'era una volta Vallombrosa...](https://corrierefiorentino.corriere.it/firenze/notizie/cronaca/18_aprile_29/foresta-abbandono-locali-chiusi-cdec04ea-4b9e-11e8-9237-32f43ca79953.shtml?refresh_ce-cp)
-
-[Corriere Fiorentino](http://corrierefiorentino.corriere.it/firenze/)
 
 Articolo di Giulio Gori
