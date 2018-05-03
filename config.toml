@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "<i class='fa fa-tree'></i> risorse culturali <i class='fa fa-tree'></i><br> per il settore forestale"
 
-  about     = "Questo sito è gestito da un gruppo indipendente di studenti e appassionati di scienze forestali. <br>Il nostro unico scopo è quello di diffondere e far circolare la cultura forestale a tutti i livelli."
+  about     = "Questo sito è gestito da un gruppo indipendente di studenti e appassionati di scienze forestali. <br>Il nostro unico scopo è quello di diffondere e far circolare la cultura forestale a tutti i livelli.<br> Tutto il materiale del sito è sottoposto a licenza Creative Commons - Non commercial - Share alike. <i class='fa fa-creative-commons'></i>"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -157,7 +157,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
+#  github           = "jpescador/hugo-future-imperfect"
 #  gitlab           = ""
 #  stackoverflow    = "" # User Number
 #  bitbucket        = ""
@@ -165,7 +165,7 @@ canonifyURLs = true
 #  codepen          = ""
   # Visual Art Communities
 #  deviantart       = ""
-  flickr           = "example"
+#  flickr           = "example"
 #  behance          = ""
 #  dribbble         = ""
   # Publishing Communities
@@ -176,28 +176,28 @@ canonifyURLs = true
 #  linkedin_company = "examplebusiness"
 #  foursquare       = ""
 #  xing             = ""
-  slideshare       = ""
+#  slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  facebook         = "https://www.facebook.com/selviculture/"
 #  googleplus       = ""
 #  reddit           = "example"
 #  quora            = ""
-  youtube          = ""
+###  youtube          = ""
 #  vimeo            = ""
 #  whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
 #    wechat         = ""
 #    qq             = "" # User ID Number
-  instagram        = "example"
+###  instagram        = "example"
 #  tumblr           = ""
-  twitter          = "example"
+  twitter          = "http://twitter.com/selviculture"
 #  skype            = ""
 #  snapchat         = ""
-  pinterest        = "example"
+#  pinterest        = "example"
 #  telegram         = "example"
 #  vine             = ""
 #  googlescholar    = ""
 #  orcid            = ""
 #  researchgate     = "example"
   # Email
-  email            = "example"
+  email            = "selviculture@googlegroups.com"
