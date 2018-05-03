@@ -11,13 +11,15 @@ featuredpath = "img/2018/04/"
 linktitle = ""
 type = "post"
 +++
-_foto: veduta dal Sasso di Simone - Uscita AUSF - 25 novembre 2017_
+_**Studenti sulla Camosciara** (Civitella Alfedena, AQ) - Parco Nazionale d'Abruzzo, Lazio e Molise_  
+_Esercitazione del corso di Scienze Forestali dell'Università di Firenze_  
+_4 ottobre 2016_  
 
 Post n°0
 
 Effettivamente è complicato...
 
-Ci sono molti motivi per cui sentivo il bisogno di un'iniziativa come questa, il primo è la voglia di uno spazio per comunicare, di dare uno spazio per comunicare anche agli altri.
+Ci sono molti motivi per cui si sentiva il bisogno di un'iniziativa come questa, il primo è la voglia di uno spazio per comunicare.  
 Allora iniziamo mettendo subito le carte in tavola:
 
 Chi siamo:
@@ -32,12 +34,15 @@ dove confrontare le offerte formative italiane ed estere
 dove trovare del materiale di approfondimento  
 dove rimanere in contatto dopo gli studi, quando iniziamo a disperderci per tutta la penisola
 * **un punto di dialogo fra il settore forestale e il pubblico**  
-dove poter fare dell'educazione ambientale seria
-dove le persone possano trovare una risposta professionale alle loro curiosità
-dove vengano divulgati i progressi scientifici
-da cui diffondere le _buone pratiche forestali_
-dove possano incontrarsi la scuola, l'università e il mondo del lavoro
+dove poter fare dell'educazione ambientale seria  
+dove le persone possano trovare una risposta professionale alle loro curiosità  
+dove vengano divulgati i progressi scientifici  
+da cui diffondere le _buone pratiche forestali_  
+dove possano incontrarsi la scuola, l'università e il mondo del lavoro  
 * **una palestra di comunicazione per il mondo forestale**  
-perché prima di tutto i forestali non sono più in grado di comunicare, e abbiamo bisogno di una palestra, fuori dalle formalità istituzionali dei corsi  
+perché prima di tutto i forestali non sono più in grado di comunicare  
+perché abbiamo bisogno di una palestra fuori dalle formalità istituzionali dei corsi  
 perché il giornalismo non è evidentemente in grado di occuparsi di ambiente
+
+_**Giovanni Iacopetti**_
 
