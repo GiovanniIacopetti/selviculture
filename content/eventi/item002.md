@@ -9,14 +9,14 @@ description = "Seminario con Luigi Torregiani"
 featured = ""
 featuredpath = ""
 featuredalt = ""
-categories = ["AUSF Firenze"]
+categories = ["seminari"]
 linktitle = ""
 link = "#"
 +++
 
-L'AUSF Firenze colpisce ancora nel segno!
+L'[AUSF Firenze](https://www.facebook.com/AUSFfirenze/) colpisce ancora nel segno!
 
-Nell'aula magna di Agraria, alle Cascine, in collaborazione con Compagnia delle Foreste si terrà un interessante seminario sulla nuova legge forestale.  
+Nell'aula magna di Agraria, alle Cascine, in collaborazione con [Compagnia delle Foreste](http://www.compagniadelleforeste.it) si terrà un interessante seminario sulla nuova legge forestale.  
 Un appuntamento da non mancare: dalle 10:30 alle 13:00, e poi si mangia!
 
 

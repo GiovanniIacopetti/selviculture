@@ -7,7 +7,7 @@ description = "Un articolo sullo stato di abbandono della località"
 featured = ""
 featuredpath = ""
 featuredalt = ""
-categories = [""]
+categories = ["articoli"]
 linktitle = ""
 format = "Android"
 link = "#"
@@ -42,7 +42,9 @@ Il percorso pedonale fra il Saltino e Vallombrosa c'è, c'è un sentiero segnato
 
 <span style="background-color: #F74076">Le affermazioni non condivisibili</span>
 
-I problemi principali dell'articolo sono rappresentati come al solito da "il bosco è in disordine", una cosa che manda su tutte le furie i nuovi e vecchi forestali (per motivi diversi credo) su cui ci riserviamo di esprimerci con un post autonomo.
+Il sentimento, estremamente diffuso a quanto pare, che _i rami spezzati non facciano parte del bosco_, è un nodo centrale dell'educazione forestale.  
+Non di rado i vecchi boscaioli e le persone completamente estranee al mondo forestale convergono su questo punto, anche se per ragioni del tutto diverse.  
+L'argomento è complesso e vorremmo approfondirlo nei prossimi post.
 
 
 
