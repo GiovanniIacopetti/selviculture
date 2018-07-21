@@ -188,7 +188,7 @@ canonifyURLs = true
     # WeChat and QQ need testing.
 #    wechat         = ""
 #    qq             = "" # User ID Number
-###  instagram        = "example"
+  instagram        = "https://www.instagram.com/selviculture/"
 #  tumblr           = ""
   twitter          = "http://twitter.com/selviculture"
 #  skype            = ""
