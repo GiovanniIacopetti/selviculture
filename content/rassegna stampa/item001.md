@@ -15,20 +15,6 @@ link = "#"
 
 <span style="background-color: #6BC155">Le osservazioni condivisibili</span>
 
-<span style="background-color: #F8C448">Le questioni su cui vorremmo più informazioni</span>
-
-<span style="background-color: #F74076">Le affermazioni non condivisibili</span>
-
-
-<object data="https://selviculture.netlify.com/articoli/item001.pdf" type="application/pdf" width="700px" height="450px">
-    <embed src="https://selviculture.netlify.com/articoli/item001.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://selviculture.netlify.com/articoli/item001.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
-<span style="background-color: #6BC155">Le osservazioni condivisibili</span>
-
 La Stazione Sperimentale di Selvicoltura, come il Paradisino, sono delle strutture che meriterebbero l'attenzione del mondo forestale universitario. Gli studenti - e non solo -  di Firenze si sono impegnati negli anni scorsi a sostenere una nuova primavera per queste strutture, che confidiamo arriverà presto.
 
 <span style="background-color: #F8C448">Le questioni su cui vorremmo più informazioni</span>
@@ -47,9 +33,22 @@ Non di rado i vecchi boscaioli e le persone completamente estranee al mondo fore
 L'argomento è complesso e vorremmo approfondirlo nei prossimi post.
 
 
+#### L'articolo originale
+
+<span style="background-color: #6BC155">Le osservazioni condivisibili</span>
+
+<span style="background-color: #F8C448">Le questioni su cui vorremmo più informazioni</span>
+
+<span style="background-color: #F74076">Le affermazioni non condivisibili</span>
+
+<object data="https://selviculture.netlify.com/articoli/item001.pdf" type="application/pdf" width="700px" height="450px">
+    <embed src="https://selviculture.netlify.com/articoli/item001.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://selviculture.netlify.com/articoli/item001.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
-##### Prima lettura:
+##### Commento:
 Giovanni Iacopetti, 2018-05-03
 
 ##### Articolo:
