@@ -2,18 +2,15 @@
 title = "Cave apuane: Daverio chiude la partita"
 description = "Lo spettacolare autogol è una vera opera d'arte"
 author = "Giovanni Iacopetti"
-date = "2018-09-25"
+date = "2018-10-19"
 categories = ["ambiente"]
 tags = []
 featured = "pic01.jpg"
 featuredalt = "pic 01"
-featuredpath = "img/2018/04/"
+featuredpath = "img/2018/10/"
 linktitle = ""
 type = "post"
 +++
-_**Studenti sulla Camosciara** (Civitella Alfedena, AQ) - Parco Nazionale d'Abruzzo, Lazio e Molise_  
-_Esercitazione del corso di Scienze Forestali dell'Università di Firenze_  
-_4 ottobre 2016_  
 
 All'indomani dell'[ultimo attacco a Franca Leverotti](http://www.voceapuana.com/lunigiana-e-apuane/cronaca/cave-vagli-chiede-5-5-milioni-alla-leverotti-legambiente-un-intimidazione-12564.aspx), che si batte contro le irregolarità nell'estrazione del marmo (quello di quest'estate [è appena caduto nel vuoto](http://iltirreno.gelocal.it/massa/cronaca/2018/05/28/news/franca-leverotti-prosciolta-legittime-le-critiche-a-turba-1.16888138)) ritornano alla mente le parole pronunciate alla manifestazione Con_vivere, e prima ancora alla Versiliana, dal noto critico d'arte Philippe Daverio.
 
